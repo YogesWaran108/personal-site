@@ -756,7 +756,7 @@ html {
   color: #9b9b9b;
   font-weight: 200;
   font-size: 1.1rem;
-      width: max-content
+  width: max-content;
 }
 
 .footer > .container-fluid {
